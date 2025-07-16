@@ -3,7 +3,7 @@ import path from "path";
 
 export default defineConfig({
    root: ".",
-   base: "/angles/",
+   base: "/angels/",
    build: {
       outDir: "docs",
       assetsDir: "assets",
